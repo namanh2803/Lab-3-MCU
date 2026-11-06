@@ -1,0 +1,33 @@
+# ==========================================
+# STM32CubeIDE / Eclipse Build Artifacts
+# ==========================================
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+*.list
+*.args
+
+# ==========================================
+# IDE & System Specific Files
+# ==========================================
+.settings/
+.launch
+*.bak
+*.orig
+*~
+
+# ST-LINK / OpenOCD log files
+*.log
+
+# Windows / OS X system files
+Thumbs.db
+Desktop.ini
+.DS_Store
